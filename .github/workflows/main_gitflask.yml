@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'gitflask'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9C9CCC8505404C7898A0CB21070F666F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D8B113AF67E54610BC382FA56A6044E7 }}
