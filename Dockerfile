@@ -19,7 +19,7 @@ ENV FLASK_RUN_PORT=80
 EXPOSE 80
 
 # Run the command to start Flask
-CMD ["python", "application.py"]
+CMD ["python", "main.py"]
 
 
 # # Sử dụng base image đã cài đặt Python 3.8
